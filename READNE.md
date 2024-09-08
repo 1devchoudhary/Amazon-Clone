@@ -1,0 +1,1 @@
+# This is amazon clone for practice of css and html.
